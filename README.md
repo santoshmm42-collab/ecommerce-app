@@ -1,3 +1,5 @@
+<img width="1920" height="1033" alt="homeup" src="https://github.com/user-attachments/assets/d36332fa-d135-4b1a-81f0-a5a4642fadee" />
+<img width="1920" height="1049" alt="homedown" src="https://github.com/user-attachments/assets/b5745011-e97c-47bf-af54-73ebf393ec17" />
 # ShopHub E-commerce Website
 
 A complete, modern e-commerce website built with HTML, CSS, JavaScript, jQuery, Bootstrap 5, MDBootstrap, PHP, and MySQL.
