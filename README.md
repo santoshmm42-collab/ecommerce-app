@@ -1,6 +1,29 @@
-Home Page
-<img width="1920" height="1033" alt="homeup" src="https://github.com/user-attachments/assets/d36332fa-d135-4b1a-81f0-a5a4642fadee" />
-<img width="1920" height="1049" alt="homedown" src="https://github.com/user-attachments/assets/b5745011-e97c-47bf-af54-73ebf393ec17" />
+## 🏠 Home Page:
+<img width="1920" height="1033" alt="homeup" src="https://github.com/user-attachments/assets/47fbf715-0801-41c1-b285-26bd151bc86a" />
+<img width="1920" height="1049" alt="homedown" src="https://github.com/user-attachments/assets/75f063ad-912c-49c6-b6c6-bde295104b93" />
+
+
+## 📝 Signup Page:
+<img width="1920" height="1044" alt="signup" src="https://github.com/user-attachments/assets/15876b7f-398f-448d-9ddd-7e7b69bfbb01" />
+
+## 🔐 Login Page:
+<img width="1920" height="1040" alt="login" src="https://github.com/user-attachments/assets/a3a7a1ed-e4c3-4cfb-8b6a-4cbcc559b81e" />
+
+### 🗂️ Category Page:
+<img width="1920" height="1046" alt="shop" src="https://github.com/user-attachments/assets/2b154024-7194-43c1-9dd3-0bc475e28d6d" />
+<img width="1920" height="1040" alt="categories down" src="https://github.com/user-attachments/assets/5aff1d8b-8a7e-4da4-b302-f7205a320090" />
+
+
+## 📞 Contact Us:
+<img width="1920" height="1034" alt="contact up" src="https://github.com/user-attachments/assets/6e01c353-26e6-4e77-b29f-739fde75ffc5" />
+<img width="1920" height="1044" alt="contact down" src="https://github.com/user-attachments/assets/006a6f69-23ce-478f-8af1-96b32bf0f3f7" />
+
+## 📄 About:
+<img width="1920" height="1037" alt="about up" src="https://github.com/user-attachments/assets/44a8fd5e-ee37-4775-8524-5e358065d68b" />
+<img width="1920" height="1033" alt="down about" src="https://github.com/user-attachments/assets/8d6535a9-515a-425e-9591-1ae5b9a399d8" />
+ 🛒 Cart Page:
+<img width="1920" height="1036" alt="cart page" src="https://github.com/user-attachments/assets/b25fe167-9dda-44b0-b5bd-6f38c2dc6ab3" />
+
 # ShopHub E-commerce Website
 
 A complete, modern e-commerce website built with HTML, CSS, JavaScript, jQuery, Bootstrap 5, MDBootstrap, PHP, and MySQL.
