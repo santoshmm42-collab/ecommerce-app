@@ -24,6 +24,31 @@
  🛒 Cart Page:
 <img width="1920" height="1036" alt="cart page" src="https://github.com/user-attachments/assets/b25fe167-9dda-44b0-b5bd-6f38c2dc6ab3" />
 
+
+## 🎥 **Live Demo**
+👉 **[View E-Commerce Website](https://your-demo-link-here)**
+
+https://github.com/user-attachments/assets/ab9c82a3-1615-4feb-b0be-3dc80b82d424
+
+
+https://github.com/user-attachments/assets/79c2ef82-3346-43e9-97a2-976c7132cc34
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ShopHub E-commerce Website
 
 A complete, modern e-commerce website built with HTML, CSS, JavaScript, jQuery, Bootstrap 5, MDBootstrap, PHP, and MySQL.
