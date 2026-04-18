@@ -1,6 +1,42 @@
+# 🛒 E-Commerce Web Application
+
+A dynamic full-stack e-commerce platform built using PHP and MySQL, featuring secure user authentication, product management, shopping cart, and a seamless checkout experience.
+ It is designed to simulate a real-world online shopping experience with a clean and user-friendly interface.
+
+ ## 🚀 Features
+- User Authentication (Login/Signup)
+- Category-Based Product Browsing
+- Add to Cart Functionality
+- Checkout System
+- Admin Product Management
+
+
+
+
+
+
+  ## 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: MySQL
+- Server: XAMPP
+
+- ## 📂 Project Structure
+/assets → Images & media  
+/css → Stylesheets  
+/js → Scripts  
+/php → Backend logic  
+/database → SQL files  
+
+
+
+
 ## 🏠 Home Page:
 <img width="1920" height="1033" alt="homeup" src="https://github.com/user-attachments/assets/47fbf715-0801-41c1-b285-26bd151bc86a" />
 <img width="1920" height="1049" alt="homedown" src="https://github.com/user-attachments/assets/75f063ad-912c-49c6-b6c6-bde295104b93" />
+
+## 🛠️ Admin Page
+<img width="1920" height="1033" alt="admin" src="https://github.com/user-attachments/assets/940122fc-e418-4259-92cb-3e869ef3d700" />
 
 
 ## 📝 Signup Page:
@@ -25,6 +61,13 @@
 <img width="1920" height="1036" alt="cart page" src="https://github.com/user-attachments/assets/b25fe167-9dda-44b0-b5bd-6f38c2dc6ab3" />
 
 
+## ▶️ Run Locally
+1. Install XAMPP
+2. Move project to `htdocs`
+3. Start Apache & MySQL
+4. Open 'http://localhost/ecommerce-App/'
+
+   
 ## 🎥 **Live Demo**
 👉 **[View E-Commerce Website](https://your-demo-link-here)**
 
@@ -33,6 +76,10 @@ https://github.com/user-attachments/assets/ab9c82a3-1615-4feb-b0be-3dc80b82d424
 
 https://github.com/user-attachments/assets/79c2ef82-3346-43e9-97a2-976c7132cc34
 
+
+
+
+https://github.com/user-attachments/assets/a4c6ed4a-1762-40d8-9119-6c40de41d5e1
 
 
 
