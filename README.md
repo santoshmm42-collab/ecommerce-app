@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/XAMPP-Server-FB7A24?style=for-the-badge&logo=xampp&logoColor=white">
 </p>
 
+
+---
+
 <p align="center">
   <img src="https://img.shields.io/github/stars/yourusername/ecommerce-App?style=social">
   <img src="https://img.shields.io/github/forks/yourusername/ecommerce-App?style=social">
